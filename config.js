@@ -23,8 +23,8 @@ const CONFIG = {
     questions: {
         first: {
             text: "Do you love me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
+            yesBtn: "ofcc",                                             // Text for "Yes" button
+            noBtn: "hell no",                                               // Text for "No" button
                 
         },
         second: {
@@ -34,8 +34,8 @@ const CONFIG = {
         },
         third: {
             text: "Will you be my Wife in 2034? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            yesBtn: "Yes yes ofcourse!",                                             // Text for "Yes" button
+            noBtn: "No ur chopped"                                                 // Text for "No" button
         }
     },
 
